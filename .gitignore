@@ -1,0 +1,10 @@
+features/*
+.idea
+.idea/*
+__pycache__
+/features/
+.venv
+/venv/
+/venv/*
+venv/*
+venv
